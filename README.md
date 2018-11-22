@@ -1,3 +1,5 @@
-# PresentationDownloads
+# Baltimore SQL Server User Group
 
-Presentations and code from our monthly meetings.
+The presentations and code from our monthly meetings is available for download here.
+
+For the meeting schedule, go to our meetup site bssug.org.  
